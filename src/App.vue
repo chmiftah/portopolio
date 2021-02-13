@@ -87,7 +87,7 @@
           <div class="px-24 py-12" id="resume">
             <div class="text-6xl font font-semi bold mt-12">Hi_</div>
             <div class="mt-4 text-2xl font-light w-full md:w-3/4">Seorang Web Devoloper yang terbiasa membangun aplikasi website menggunakan <strong>Laravel</strong>, <strong>Vue Js</strong> dan <strong>Tailwind CSS</strong>, serta mampu menulis kode yang dirancang dengan baik dan efisen. Seorang yang mudah dalam <strong>belajar</strong> hal baru, <strong>pekerja keras</strong>, <strong>bertanggung jawab</strong> dan baik dalam <strong>Kerjasama Tim.</strong></div>
-            <button class="mt-4 bg-blue-500 hover:bg-blue-600 rounded-lg px-5 py-2 border border-white text-white focus:outline-none text-xl">Download CV</button>
+            <a href="https://drive.google.com/file/d/1YPuPIQ-gW9AVDo8XN6kBHgJHGqqzXH4p/view" class="mt-4 bg-blue-500 hover:bg-blue-600 rounded-lg px-5 py-2 border border-white text-white focus:outline-none text-xl" target="blank">Download CV</a>
           </div>
            <hr>
           <div class="pl-24 pr-6 py-12">
